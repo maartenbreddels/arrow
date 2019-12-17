@@ -916,7 +916,7 @@ schema ::
 The flattened version of this is: ::
 
     FieldNode 0: Struct name='col1'
-    FieldNode 1: Int32 name=a'
+    FieldNode 1: Int32 name='a'
     FieldNode 2: List name='b'
     FieldNode 3: Int64 name='item'
     FieldNode 4: Float64 name='c'
